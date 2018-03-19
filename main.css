@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+/*.container-fluid.row h1, p {
+    text-align: center;
+}*/
+
+#banner {
+    padding-left: 2%;
+}
